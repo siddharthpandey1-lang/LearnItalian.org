@@ -1,0 +1,8 @@
+print("Welcome to learnitalian.org!")
+print("you want to learn Italian?")
+print("perhaps you have come to right place!")
+print("what is your name?")
+name = input()
+print("Hello " + name + "!")
+print("let's get started!")
+print("Let's learn some basic phrases:")
